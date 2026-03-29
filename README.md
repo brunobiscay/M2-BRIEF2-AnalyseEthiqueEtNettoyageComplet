@@ -43,6 +43,7 @@ Ces données sont nécessaires pour l’analyse mais sensibles pour rester brute
     smoker → pas d'interet selon moi mais on peut garder en pseudonymisant
 
 🟩 À conserver sans modification majeure
+
     âge (ou tranche d’âge)
     sexe
     sport_licence
@@ -54,7 +55,7 @@ Ces données sont nécessaires pour l’analyse mais sensibles pour rester brute
 
 
 🧱 3. Risque de ré-identification
-Selon moi en combinant plusieurs varaibles on ne peut pas identifier quelqu'un 
+    Selon moi en combinant plusieurs varaibles on ne peut pas identifier quelqu'un 
 
 📦 4. Version RGPD‑friendly (structure visée)
 
